@@ -1,6 +1,7 @@
 # 🎰 Lottery Game
 > Lottert game using React
 
+
 A simple React-based Lottery Game that demonstrates key React concepts like **component decomposition**, **distributed UI design**, and **lifting state up**. The game dynamically generates random lottery tickets and checks for win conditions based on customizable logic.
 
 ---
